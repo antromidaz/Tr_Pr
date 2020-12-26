@@ -1,0 +1,12 @@
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\bin\Debug\Entity.dll.config
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\bin\Debug\Entity.dll
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\bin\Debug\Entity.pdb
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\obj\Debug\Entity.dll
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\obj\Debug\Entity.pdb
+D:\Учеба\Технологии_программирования\Trainer_programm\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\bin\Debug\Entity.dll.config
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\bin\Debug\Entity.dll
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\bin\Debug\Entity.pdb
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\obj\Debug\Entity.dll
+C:\Users\user\source\repos\Tr_progr\Trainer_Programm-master\Entity\obj\Debug\Entity.pdb
